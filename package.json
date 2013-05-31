@@ -1,0 +1,29 @@
+{
+  "Author": "Shane Tomlinson <shane@shanetomlinson.com> (https://shanetomlinson.com)",
+  "name": "connect-fonts-ubuntucondensed",
+  "description": "Ubuntu Condensed font pack for connect-fonts",
+  "keywords": ["font", "font-face", "CSS", "connect-fonts", "ubuntucondensed-regular"],
+  "homepage": "https://github.com/shane-tomlinson/connect-fonts-ubuntucondensed",
+  "licenses": [
+    {
+      "covers": "software",
+      "type": "MPL-2.0",
+      "url": "http://mozilla.org/MPL/2.0/"
+    },
+    {
+      "covers": "fonts",
+      "type": "UFL-1.0",
+      "url": "http://font.ubuntu.com/ufl/ubuntu-font-licence-1.0.txt"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shane-tomlinson/connect-fonts-ubuntucondensed"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "node": ">= 0.4.7"
+  },
+  "main": "index"
+}
+
